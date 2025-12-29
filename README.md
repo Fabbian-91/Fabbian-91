@@ -24,9 +24,9 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes
-- ☕ Java (POO, colecciones, genéricos)
+- ☕ Java
 - 🌐 HTML5, CSS3
-- 🟨 JavaScript (básico)
+- 🟨 JavaScript
 
 ### Backend y Persistencia de Datos
 - 🗄️ JDBC
