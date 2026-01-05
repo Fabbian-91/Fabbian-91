@@ -11,14 +11,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 
-🚀 Sobre mí
+# 🚀 Sobre mí
 
 Soy estudiante y desarrollador apasionado por la programación, con enfoque en **Java** y el desarrollo de aplicaciones backend.  
 Me interesa crear soluciones **bien estructuradas, eficientes y escalables**, aplicando buenas prácticas de programación y diseño de software.
 
 Actualmente trabajo en **proyectos académicos y personales** que combinan lógica, diseño y persistencia de datos.
 
----
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -39,7 +38,6 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 - Git & GitHub
 - Visual Studio Code
 
----
 
 ## 📂 Proyectos Destacados
 
@@ -50,7 +48,6 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 - Gestión de usuarios y torneos
 - Ranking y estadísticas
 
----
 
 ## 📚 Actualmente aprendiendo
 - Arquitecturas backend
@@ -58,14 +55,13 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 - Spring y Spring Boot
 - Inglés técnico
 
----
+
 
 ## 📫 Contacto
 
 - 📧 Email: **antony12345fabian@gmail.com**
 - 💼 GitHub: **https://github.com/Fabbian-91**
 
----
 
 ### 📌 Mis Estadísticas
 
