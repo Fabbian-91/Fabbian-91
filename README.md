@@ -22,14 +22,15 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes
+### Lenguajes
 - ☕ Java
 - 🌐 HTML5, CSS3
+- 🟦 TypeScript
 - 🟨 JavaScript
 
 ### Backend y Persistencia de Datos
 - 🗄️ JDBC
-- 🐘 PostgreSQL
-- 🧩 Derby (Embedded)
+- 🐬 MySQL
 - 📦 Maven
 
 ### Herramientas
