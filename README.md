@@ -12,7 +12,7 @@
 
 # 🚀 Sobre mí
 
-Soy estudiante y desarrollador apasionado por la programación, con enfoque en **Java** y el desarrollo de aplicaciones backend.  
+Soy estudiante y desarrollador apasionado por la programación, con enfoque de aplicaciones backend.  
 Me interesa crear soluciones **bien estructuradas, eficientes y escalables**, aplicando buenas prácticas de programación y diseño de software.
 
 Actualmente trabajo en **proyectos académicos y personales** que combinan lógica, diseño y persistencia de datos.
