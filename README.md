@@ -17,11 +17,11 @@
 
 # 🚀 Sobre mí
 
-Soy estudiante y desarrollador apasionado por la programación, con enfoque en el desarrollo de aplicaciones backend.
+Soy estudiante y desarrollador apasionado por la programación, con enfoque en aplicaciones backend.
 
-Me interesa crear soluciones **bien estructuradas, eficientes y escalables**, aplicando buenas prácticas de programación, diseño de software y persistencia de datos.
+Me interesa crear soluciones **bien estructuradas, eficientes y escalables**, aplicando buenas prácticas de programación y diseño de software.
 
-Actualmente trabajo en **proyectos académicos y personales** que combinan lógica, diseño, bases de datos, arquitectura cliente/servidor y desarrollo de software orientado a objetos.
+Actualmente trabajo en **proyectos académicos y personales** que combinan lógica, diseño, arquitectura y persistencia de datos.
 
 ---
 
@@ -30,74 +30,78 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 ### Lenguajes
 
 - ☕ Java
+- 🌐 HTML5, CSS3
 - 🟦 TypeScript
 - 🟨 JavaScript
-- 🌐 HTML5
-- 🎨 CSS3
 
 ### Backend y Persistencia de Datos
 
 - 🗄️ JDBC
 - 🐬 MySQL
 - 📦 Maven
-- 🧩 Programación Orientada a Objetos
-- 🧵 Programación Multihilo
 - 🔌 Sockets TCP
+- 🧵 Programación Multihilo
 
 ### Herramientas
 
 - IntelliJ IDEA
 - NetBeans
-- Visual Studio Code
 - Git & GitHub
+- Visual Studio Code
 
 ---
 
 ## 📂 Proyectos Destacados
 
----
-
 ### 📌 SGTCU  
 **Sistema de Gestión de Torneos y Competencias Universitarias**
 
-SGTCU es un sistema académico desarrollado en Java, orientado a la gestión de torneos y competencias universitarias.
-
-El proyecto permite administrar usuarios, torneos, participantes, rankings y estadísticas, aplicando principios de programación orientada a objetos y estructuras de datos personalizadas.
-
-**Tecnologías y conceptos aplicados:**
-
-- Java
 - JavaFX
-- Programación Orientada a Objetos
 - Estructuras de datos personalizadas
-- Gestión de usuarios
-- Gestión de torneos
+- Gestión de usuarios y torneos
 - Ranking y estadísticas
-
-**Características principales:**
-
-- Registro y administración de participantes
-- Gestión de torneos universitarios
-- Control de rankings
-- Consulta de estadísticas
-- Interfaz gráfica con JavaFX
 
 ---
 
 ### 🚀 TurnoSync  
 **Sistema de Gestión de Turnos Cliente/Servidor Concurrente en Java**
 
-TurnoSync es un sistema de gestión de turnos desarrollado en **Java SE**, bajo una arquitectura **Cliente/Servidor concurrente**, diseñado para simular entornos reales como clínicas, talleres mecánicos o centros de servicio.
-
-El sistema permite que múltiples usuarios soliciten, consulten y cancelen turnos simultáneamente, garantizando integridad, control de concurrencia y seguridad lógica.
-
-Este proyecto fue desarrollado para el curso **SC-303 Programación Cliente/Servidor Concurrente**, aplicando conceptos avanzados de desarrollo backend, concurrencia y persistencia de datos.
+- Java SE
+- Java Swing
+- Arquitectura Cliente/Servidor
+- Sockets TCP
+- Programación multihilo
+- Patrón Producer–Consumer
+- BlockingQueue
+- MVC Extendido
+- JDBC y MySQL
+- Control de roles y autenticación
+- Gestión de turnos, usuarios y peticiones
+- Manejo de concurrencia y validaciones
 
 ---
 
-## 🧠 Arquitectura de TurnoSync
+## 📚 Actualmente aprendiendo
 
-### Visión General
+- Arquitecturas backend
+- Buenas prácticas y Clean Code
+- Spring y Spring Boot
+- Inglés técnico
+- Desarrollo de APIs REST
 
-```txt
-Cliente Java Swing ⇄ Servidor Java Concurrente ⇄ Base de Datos MySQL
+---
+
+## 📫 Contacto
+
+- 📧 Email: **antony12345fabian@gmail.com**
+- 💼 GitHub: **https://github.com/Fabbian-91**
+
+---
+
+## 📌 Mis Estadísticas
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fabbian-91)](https://git.io/streak-stats)
+
+---
+
+⭐ *Gracias por visitar mi perfil. Siempre aprendiendo y construyendo.*
