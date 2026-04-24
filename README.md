@@ -91,13 +91,6 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 
 ---
 
-## 📫 Contacto
-
-- 📧 Email: **antony12345fabian@gmail.com**
-- 💼 GitHub: **https://github.com/Fabbian-91**
-
----
-
 ## 📌 Mis Estadísticas
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fabbian-91)](https://git.io/streak-stats)
