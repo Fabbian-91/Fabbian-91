@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Ingeniería en Desarrollo de Software  
 🏫 Universidad Fidélitas  
-🎓 Técnico en Programación – INA  
+🎓 Técnico en Desarrollo de Software – INA  
 💻 Desarrollador Full Stack  
 🌎 Costa Rica  
 
