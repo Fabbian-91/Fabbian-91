@@ -102,7 +102,6 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 - Arquitecturas backend
 - Buenas prácticas y Clean Code
 - Spring y Spring Boot
-- Angular
 - Inglés técnico
 - Desarrollo de APIs REST
 
