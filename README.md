@@ -81,6 +81,22 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 
 ---
 
+### 🏥 Citas Médicas App  
+**Sistema web para la gestión de citas médicas**
+
+- Angular
+- TypeScript
+- HTML5, CSS3
+- Express.js
+- TypeORM
+- MySQL
+- Autenticación con JWT
+- Control de roles
+- Gestión de pacientes, médicos y citas
+- Validación para evitar citas duplicadas en el mismo horario
+
+---
+
 ## 📚 Actualmente aprendiendo
 
 - Arquitecturas backend
