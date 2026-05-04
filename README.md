@@ -33,14 +33,13 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 - 🌐 HTML5, CSS3
 - 🟦 TypeScript
 - 🟨 JavaScript
+- 🅰️ Angular
 
-### Backend y Persistencia de Datos
+### Backend
 
 - 🗄️ JDBC
 - 🐬 MySQL
 - 📦 Maven
-- 🔌 Sockets TCP
-- 🧵 Programación Multihilo
 
 ### Herramientas
 
