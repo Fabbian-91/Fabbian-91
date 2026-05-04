@@ -27,7 +27,7 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 
 ## 🛠️ Tecnologías y Herramientas
 
-### Lenguajes
+### frontend
 
 - ☕ Java
 - 🌐 HTML5, CSS3
