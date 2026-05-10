@@ -31,7 +31,6 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 
 ### frontend
 
-- ☕ Java
 - 🌐 HTML5, CSS3
 - 🟦 TypeScript
 - 🟨 JavaScript
@@ -39,9 +38,8 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 
 ### Backend
 
-- 🗄️ JDBC
+- ☕ Java
 - 🐬 MySQL
-- 📦 Maven
 
 ### Herramientas
 
