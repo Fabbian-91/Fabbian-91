@@ -13,6 +13,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -44,10 +45,8 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 
 ### Herramientas
 
-- IntelliJ IDEA
-- NetBeans
+- Docker
 - Git & GitHub
-- Visual Studio Code
 
 ---
 
