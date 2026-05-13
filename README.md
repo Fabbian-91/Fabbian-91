@@ -100,7 +100,6 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 - Buenas prácticas y Clean Code
 - Spring y Spring Boot
 - Inglés técnico
-- Desarrollo de APIs REST
 
 ---
 
