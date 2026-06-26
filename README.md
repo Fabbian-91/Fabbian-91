@@ -40,6 +40,7 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 
 - ☕ Java
 - 🐬 MySQL
+- 🌱 Spring Boot
 
 ### Herramientas
 
@@ -98,7 +99,6 @@ Actualmente trabajo en **proyectos académicos y personales** que combinan lógi
 
 - Arquitecturas backend
 - Buenas prácticas y Clean Code
-- Spring y Spring Boot
 - Inglés técnico
 
 ---
